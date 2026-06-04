@@ -1,0 +1,351 @@
+OrderID,OrderDate,CustomerName,State,Category,Product,Quantity,Price,Discount,TotalAmount,PaymentMode,OrderStatus
+MS0001,2024-02-22,Customer_87,Rajasthan,Women,Kurti,3,1202,0,3606,UPI,Returned
+MS0002,2024-09-15,Customer_78,Bihar,Electronics,Earphones,1,582,0,582,COD,Delivered
+MS0003,2024-03-22,Customer_90,Maharashtra,Electronics,Power Bank,4,2612,0,10448,Card,Delivered
+MS0004,2024-02-19,Customer_46,Uttar Pradesh,Men,Shirt,3,617,67,1784,COD,Delivered
+MS0005,2024-11-17,Customer_80,Uttar Pradesh,Women,Dress,1,1749,60,1689,COD,Delivered
+MS0006,2024-02-21,Customer_49,Uttar Pradesh,Women,Kurti,2,1384,0,2768,Card,Delivered
+MS0007,2024-11-07,Customer_82,Delhi,Men,Jeans,3,1057,0,3171,COD,Delivered
+MS0008,2024-01-29,Customer_30,Bihar,Men,Wallet,4,1304,132,5084,Card,Cancelled
+MS0009,2024-12-01,Customer_64,Maharashtra,Kids,Baby Dress,2,2522,0,5044,COD,Cancelled
+MS0010,2024-10-26,Customer_55,Rajasthan,Men,Jeans,2,1209,295,2123,Card,Delivered
+MS0011,2024-03-19,Customer_81,Delhi,Men,Shirt,4,571,0,2284,COD,Cancelled
+MS0012,2024-10-10,Customer_111,Bihar,Women,Dress,4,2639,259,10297,COD,Delivered
+MS0013,2024-08-20,Customer_1,Uttar Pradesh,Kids,School Bag,1,1401,0,1401,COD,Delivered
+MS0014,2024-10-03,Customer_100,Rajasthan,Women,Palazzo,2,825,0,1650,UPI,Returned
+MS0015,2024-05-02,Customer_8,Delhi,Kids,Puzzle,1,657,205,452,COD,Delivered
+MS0016,2024-12-03,Customer_61,Rajasthan,Women,Dress,1,2380,0,2380,UPI,Delivered
+MS0017,2024-12-09,Customer_84,Uttar Pradesh,Electronics,Power Bank,2,3119,179,6059,Card,Returned
+MS0018,2024-01-11,Customer_76,Rajasthan,Electronics,Earphones,2,1119,52,2186,UPI,Returned
+MS0019,2024-02-04,Customer_116,Bihar,Men,T-Shirt,1,3098,0,3098,Card,Delivered
+MS0020,2024-10-19,Customer_74,Maharashtra,Men,Jeans,4,1076,0,4304,UPI,Cancelled
+MS0021,2024-08-04,Customer_53,Maharashtra,Electronics,Power Bank,1,596,240,356,COD,Delivered
+MS0022,2024-05-07,Customer_25,Delhi,Women,Kurti,4,3181,0,12724,COD,Cancelled
+MS0023,2024-02-08,Customer_57,Rajasthan,Men,Wallet,2,1339,0,2678,UPI,Delivered
+MS0024,2024-09-03,Customer_28,Maharashtra,Women,Kurti,2,880,228,1532,UPI,Delivered
+MS0025,2024-08-04,Customer_90,Rajasthan,Electronics,Earphones,4,1285,252,4888,COD,Cancelled
+MS0026,2024-06-09,Customer_8,Bihar,Men,Shirt,3,1090,0,3270,COD,Cancelled
+MS0027,2024-12-11,Customer_111,Delhi,Men,T-Shirt,1,960,0,960,Card,Delivered
+MS0028,2024-12-02,Customer_75,Rajasthan,Men,Shoes,1,2735,61,2674,COD,Delivered
+MS0029,2024-03-08,Customer_86,Uttar Pradesh,Kids,Toy Set,3,1176,155,3373,Card,Delivered
+MS0030,2024-10-02,Customer_28,Rajasthan,Women,Kurti,4,2743,0,10972,Card,Delivered
+MS0031,2024-08-12,Customer_107,Rajasthan,Kids,Baby Dress,2,1712,0,3424,COD,Delivered
+MS0032,2024-05-15,Customer_15,Bihar,Women,Dupatta,3,2916,0,8748,COD,Returned
+MS0033,2024-04-14,Customer_88,Uttar Pradesh,Men,Jeans,3,2676,127,7901,COD,Cancelled
+MS0034,2024-01-23,Customer_1,Uttar Pradesh,Kids,Baby Dress,1,2797,236,2561,UPI,Delivered
+MS0035,2024-02-08,Customer_114,Delhi,Men,Wallet,4,2496,0,9984,COD,Delivered
+MS0036,2024-06-06,Customer_47,Bihar,Kids,Water Bottle,2,1959,0,3918,Card,Delivered
+MS0037,2024-05-01,Customer_111,Delhi,Men,T-Shirt,3,2492,0,7476,UPI,Cancelled
+MS0038,2024-03-22,Customer_101,Bihar,Women,Saree,3,1885,147,5508,Card,Delivered
+MS0039,2024-04-26,Customer_29,Bihar,Electronics,Power Bank,2,2084,199,3969,COD,Delivered
+MS0040,2024-11-24,Customer_66,Maharashtra,Electronics,Smartwatch,3,483,162,1287,COD,Returned
+MS0041,2024-01-20,Customer_14,Rajasthan,Kids,Baby Dress,1,1268,111,1157,Card,Delivered
+MS0042,2024-01-23,Customer_91,Maharashtra,Kids,Puzzle,1,1776,117,1659,UPI,Returned
+MS0043,2024-12-05,Customer_109,Bihar,Men,Jeans,4,485,189,1751,COD,Delivered
+MS0044,2024-04-08,Customer_54,Maharashtra,Kids,Puzzle,3,1847,0,5541,COD,Delivered
+MS0045,2024-08-08,Customer_101,Rajasthan,Kids,Puzzle,1,1443,0,1443,COD,Delivered
+MS0046,2024-03-27,Customer_85,Bihar,Electronics,Bluetooth Speaker,4,2966,129,11735,Card,Returned
+MS0047,2024-04-11,Customer_19,Bihar,Kids,Baby Dress,2,2954,0,5908,UPI,Delivered
+MS0048,2024-12-22,Customer_50,Maharashtra,Electronics,Headphones,1,2064,0,2064,Card,Delivered
+MS0049,2024-12-22,Customer_67,Maharashtra,Men,T-Shirt,1,1940,0,1940,UPI,Returned
+MS0050,2024-08-14,Customer_79,Rajasthan,Men,T-Shirt,4,745,257,2723,Card,Returned
+MS0051,2024-11-22,Customer_36,Rajasthan,Electronics,Power Bank,4,2042,0,8168,Card,Delivered
+MS0052,2024-05-19,Customer_43,Uttar Pradesh,Kids,Puzzle,1,3121,0,3121,COD,Delivered
+MS0053,2024-02-02,Customer_54,Maharashtra,Men,Shirt,2,1767,0,3534,Card,Returned
+MS0054,2024-10-26,Customer_90,Bihar,Electronics,Bluetooth Speaker,1,1046,235,811,COD,Cancelled
+MS0055,2024-10-02,Customer_96,Rajasthan,Electronics,Earphones,3,1422,219,4047,COD,Delivered
+MS0056,2024-07-18,Customer_44,Maharashtra,Electronics,Power Bank,3,1984,0,5952,COD,Delivered
+MS0057,2024-11-25,Customer_55,Delhi,Electronics,Power Bank,1,1812,0,1812,Card,Delivered
+MS0058,2024-06-16,Customer_44,Maharashtra,Women,Palazzo,4,1539,128,6028,Card,Cancelled
+MS0059,2024-06-28,Customer_29,Bihar,Kids,Baby Dress,4,278,0,1112,COD,Delivered
+MS0060,2024-03-05,Customer_61,Bihar,Women,Saree,2,282,0,564,COD,Delivered
+MS0061,2024-06-08,Customer_14,Rajasthan,Electronics,Smartwatch,3,886,0,2658,UPI,Delivered
+MS0062,2024-12-22,Customer_99,Uttar Pradesh,Electronics,Bluetooth Speaker,2,510,0,1020,COD,Returned
+MS0063,2024-12-04,Customer_48,Bihar,Women,Dupatta,1,1621,292,1329,COD,Delivered
+MS0064,2024-11-21,Customer_115,Maharashtra,Women,Dress,4,631,241,2283,COD,Delivered
+MS0065,2024-08-26,Customer_56,Rajasthan,Electronics,Power Bank,3,2721,295,7868,Card,Delivered
+MS0066,2024-10-18,Customer_79,Maharashtra,Men,T-Shirt,3,2045,144,5991,Card,Delivered
+MS0067,2024-05-12,Customer_44,Uttar Pradesh,Electronics,Smartwatch,2,2196,128,4264,COD,Delivered
+MS0068,2024-09-07,Customer_72,Delhi,Women,Dupatta,2,549,143,955,COD,Cancelled
+MS0069,2024-07-26,Customer_89,Delhi,Electronics,Bluetooth Speaker,1,580,0,580,Card,Returned
+MS0070,2024-12-25,Customer_59,Uttar Pradesh,Kids,Puzzle,3,1941,189,5634,Card,Delivered
+MS0071,2024-04-08,Customer_28,Maharashtra,Men,T-Shirt,2,1491,0,2982,Card,Returned
+MS0072,2024-04-01,Customer_39,Bihar,Kids,Baby Dress,2,1412,136,2688,COD,Returned
+MS0073,2024-11-22,Customer_112,Maharashtra,Men,Jeans,1,422,0,422,UPI,Delivered
+MS0074,2024-01-27,Customer_33,Maharashtra,Kids,Puzzle,4,2003,0,8012,UPI,Delivered
+MS0075,2024-03-17,Customer_104,Rajasthan,Electronics,Bluetooth Speaker,1,2562,0,2562,Card,Delivered
+MS0076,2024-08-18,Customer_117,Maharashtra,Men,T-Shirt,4,2682,135,10593,Card,Returned
+MS0077,2024-11-16,Customer_28,Uttar Pradesh,Electronics,Smartwatch,1,2696,0,2696,COD,Delivered
+MS0078,2024-01-02,Customer_53,Maharashtra,Men,Shirt,2,2459,0,4918,COD,Returned
+MS0079,2024-12-25,Customer_111,Maharashtra,Electronics,Smartwatch,1,1147,167,980,UPI,Delivered
+MS0080,2024-11-27,Customer_20,Uttar Pradesh,Kids,Water Bottle,2,1940,0,3880,UPI,Delivered
+MS0081,2024-03-04,Customer_60,Uttar Pradesh,Women,Saree,3,2636,167,7741,COD,Cancelled
+MS0082,2024-08-09,Customer_95,Uttar Pradesh,Kids,Water Bottle,4,1992,0,7968,COD,Delivered
+MS0083,2024-10-22,Customer_6,Delhi,Women,Kurti,2,2960,30,5890,Card,Returned
+MS0084,2024-02-16,Customer_61,Uttar Pradesh,Electronics,Smartwatch,2,2596,243,4949,Card,Delivered
+MS0085,2024-05-27,Customer_85,Maharashtra,Kids,Baby Dress,2,1549,230,2868,COD,Delivered
+MS0086,2024-07-25,Customer_111,Rajasthan,Electronics,Earphones,3,1232,0,3696,UPI,Returned
+MS0087,2024-11-14,Customer_97,Maharashtra,Electronics,Bluetooth Speaker,1,967,285,682,COD,Cancelled
+MS0088,2024-08-12,Customer_113,Maharashtra,Women,Saree,3,2448,87,7257,UPI,Delivered
+MS0089,2024-02-17,Customer_29,Bihar,Men,Shirt,3,2455,27,7338,Card,Delivered
+MS0090,2024-09-04,Customer_61,Delhi,Men,Wallet,3,2283,159,6690,Card,Returned
+MS0091,2024-02-05,Customer_36,Maharashtra,Men,Wallet,2,2654,0,5308,Card,Returned
+MS0092,2024-03-17,Customer_58,Rajasthan,Kids,Baby Dress,3,3172,172,9344,Card,Delivered
+MS0093,2024-12-23,Customer_31,Rajasthan,Kids,Water Bottle,4,2064,0,8256,Card,Delivered
+MS0094,2024-12-05,Customer_102,Delhi,Electronics,Earphones,3,2136,215,6193,Card,Delivered
+MS0095,2024-09-26,Customer_117,Maharashtra,Men,Shoes,3,610,0,1830,UPI,Delivered
+MS0096,2024-11-15,Customer_89,Maharashtra,Electronics,Power Bank,1,2122,155,1967,COD,Delivered
+MS0097,2024-11-12,Customer_9,Delhi,Kids,Water Bottle,4,1496,0,5984,COD,Delivered
+MS0098,2024-03-26,Customer_89,Uttar Pradesh,Men,T-Shirt,4,602,71,2337,UPI,Delivered
+MS0099,2024-03-15,Customer_32,Rajasthan,Kids,Baby Dress,3,1667,211,4790,Card,Returned
+MS0100,2024-09-11,Customer_117,Rajasthan,Men,Shirt,2,522,0,1044,UPI,Delivered
+MS0101,2024-05-27,Customer_87,Rajasthan,Electronics,Smartwatch,4,1244,24,4952,UPI,Delivered
+MS0102,2024-08-21,Customer_109,Uttar Pradesh,Electronics,Smartwatch,3,2816,237,8211,UPI,Cancelled
+MS0103,2024-12-24,Customer_38,Bihar,Electronics,Earphones,2,1761,203,3319,COD,Cancelled
+MS0104,2024-04-27,Customer_78,Uttar Pradesh,Kids,Baby Dress,1,2682,274,2408,UPI,Delivered
+MS0105,2024-08-13,Customer_5,Rajasthan,Kids,Toy Set,1,2769,40,2729,Card,Delivered
+MS0106,2024-03-08,Customer_101,Rajasthan,Women,Palazzo,3,1900,0,5700,Card,Returned
+MS0107,2024-02-28,Customer_60,Bihar,Kids,Toy Set,3,2172,171,6345,UPI,Delivered
+MS0108,2024-05-15,Customer_69,Bihar,Electronics,Headphones,3,568,0,1704,Card,Delivered
+MS0109,2024-12-11,Customer_30,Maharashtra,Kids,Water Bottle,4,2814,0,11256,UPI,Returned
+MS0110,2024-12-24,Customer_39,Maharashtra,Kids,Water Bottle,2,2851,52,5650,UPI,Delivered
+MS0111,2024-04-30,Customer_114,Rajasthan,Women,Kurti,3,2216,0,6648,UPI,Cancelled
+MS0112,2024-12-01,Customer_13,Maharashtra,Electronics,Smartwatch,4,2604,99,10317,COD,Cancelled
+MS0113,2024-04-30,Customer_110,Uttar Pradesh,Kids,Baby Dress,3,1088,247,3017,UPI,Delivered
+MS0114,2024-08-20,Customer_12,Delhi,Kids,Baby Dress,4,1329,0,5316,COD,Returned
+MS0115,2024-02-05,Customer_107,Rajasthan,Women,Kurti,3,1196,0,3588,UPI,Returned
+MS0116,2024-03-15,Customer_17,Rajasthan,Men,Shirt,3,803,21,2388,Card,Delivered
+MS0117,2024-10-28,Customer_42,Bihar,Women,Kurti,2,259,0,518,UPI,Delivered
+MS0118,2024-08-31,Customer_58,Uttar Pradesh,Women,Saree,4,2353,0,9412,COD,Returned
+MS0119,2024-08-22,Customer_83,Bihar,Women,Dress,2,2718,42,5394,UPI,Cancelled
+MS0120,2024-02-11,Customer_42,Rajasthan,Electronics,Bluetooth Speaker,1,2207,0,2207,UPI,Delivered
+MS0121,2024-08-20,Customer_65,Rajasthan,Men,Jeans,3,1759,291,4986,Card,Delivered
+MS0122,2024-07-30,Customer_44,Maharashtra,Women,Dupatta,2,1960,0,3920,Card,Cancelled
+MS0123,2024-03-19,Customer_88,Maharashtra,Women,Palazzo,4,1479,150,5766,UPI,Delivered
+MS0124,2024-10-11,Customer_8,Rajasthan,Women,Kurti,4,594,0,2376,COD,Returned
+MS0125,2024-05-27,Customer_77,Uttar Pradesh,Kids,Baby Dress,4,1647,0,6588,Card,Delivered
+MS0126,2024-10-11,Customer_48,Bihar,Men,Shirt,4,1117,75,4393,Card,Returned
+MS0127,2024-04-02,Customer_35,Uttar Pradesh,Men,Wallet,1,2693,0,2693,Card,Delivered
+MS0128,2024-03-13,Customer_95,Bihar,Women,Saree,2,2518,0,5036,UPI,Returned
+MS0129,2024-07-08,Customer_40,Uttar Pradesh,Men,Wallet,4,2057,0,8228,COD,Returned
+MS0130,2024-05-19,Customer_57,Maharashtra,Women,Kurti,2,843,0,1686,Card,Returned
+MS0131,2024-06-25,Customer_56,Bihar,Electronics,Bluetooth Speaker,3,1081,0,3243,Card,Returned
+MS0132,2024-11-02,Customer_8,Bihar,Electronics,Headphones,3,385,132,1023,UPI,Delivered
+MS0133,2024-01-04,Customer_64,Maharashtra,Men,Shirt,3,1384,0,4152,UPI,Delivered
+MS0134,2024-07-22,Customer_111,Bihar,Electronics,Headphones,2,2248,0,4496,Card,Delivered
+MS0135,2024-12-29,Customer_82,Maharashtra,Electronics,Earphones,3,2557,239,7432,Card,Delivered
+MS0136,2024-02-15,Customer_56,Bihar,Electronics,Earphones,3,902,255,2451,UPI,Cancelled
+MS0137,2024-04-23,Customer_43,Delhi,Electronics,Headphones,1,1820,178,1642,UPI,Returned
+MS0138,2024-04-30,Customer_14,Delhi,Women,Dupatta,2,1630,0,3260,Card,Delivered
+MS0139,2024-11-17,Customer_64,Maharashtra,Men,Shoes,2,2883,0,5766,COD,Returned
+MS0140,2024-08-13,Customer_9,Maharashtra,Electronics,Headphones,3,2768,0,8304,Card,Delivered
+MS0141,2024-06-07,Customer_60,Maharashtra,Kids,Water Bottle,1,1640,0,1640,UPI,Delivered
+MS0142,2024-08-24,Customer_75,Rajasthan,Kids,School Bag,1,2839,66,2773,COD,Delivered
+MS0143,2024-02-01,Customer_58,Bihar,Electronics,Headphones,2,1515,0,3030,Card,Delivered
+MS0144,2024-09-25,Customer_67,Rajasthan,Men,T-Shirt,2,3097,244,5950,UPI,Delivered
+MS0145,2024-11-19,Customer_83,Uttar Pradesh,Kids,School Bag,4,1873,0,7492,UPI,Delivered
+MS0146,2024-06-19,Customer_11,Rajasthan,Women,Dupatta,4,1362,0,5448,COD,Delivered
+MS0147,2024-10-13,Customer_49,Uttar Pradesh,Kids,School Bag,4,727,63,2845,UPI,Returned
+MS0148,2024-04-02,Customer_28,Uttar Pradesh,Women,Dress,3,273,205,614,Card,Delivered
+MS0149,2024-09-16,Customer_99,Rajasthan,Men,Shirt,2,515,0,1030,COD,Returned
+MS0150,2024-03-24,Customer_24,Rajasthan,Women,Palazzo,2,2645,0,5290,UPI,Cancelled
+MS0151,2024-11-08,Customer_37,Maharashtra,Women,Dress,3,2969,141,8766,UPI,Returned
+MS0152,2024-08-24,Customer_99,Uttar Pradesh,Men,Jeans,4,993,208,3764,Card,Returned
+MS0153,2024-01-27,Customer_83,Maharashtra,Electronics,Power Bank,2,2675,90,5260,Card,Returned
+MS0154,2024-05-19,Customer_58,Rajasthan,Women,Dupatta,1,1366,0,1366,UPI,Cancelled
+MS0155,2024-01-28,Customer_51,Rajasthan,Women,Saree,4,1630,33,6487,Card,Delivered
+MS0156,2024-02-20,Customer_108,Uttar Pradesh,Electronics,Earphones,3,1118,34,3320,UPI,Delivered
+MS0157,2024-08-17,Customer_79,Bihar,Women,Palazzo,4,3050,91,12109,UPI,Delivered
+MS0158,2024-02-26,Customer_100,Uttar Pradesh,Kids,Toy Set,2,2446,290,4602,UPI,Delivered
+MS0159,2024-02-26,Customer_108,Maharashtra,Women,Kurti,2,1918,0,3836,COD,Returned
+MS0160,2024-08-07,Customer_1,Rajasthan,Women,Dupatta,2,3142,93,6191,Card,Delivered
+MS0161,2024-09-26,Customer_70,Rajasthan,Electronics,Power Bank,1,2343,0,2343,COD,Returned
+MS0162,2024-05-09,Customer_96,Bihar,Women,Dress,4,377,218,1290,Card,Delivered
+MS0163,2024-01-23,Customer_46,Rajasthan,Kids,Toy Set,1,2582,0,2582,Card,Delivered
+MS0164,2024-01-19,Customer_38,Delhi,Electronics,Bluetooth Speaker,2,751,52,1450,UPI,Delivered
+MS0165,2024-05-09,Customer_5,Delhi,Women,Palazzo,3,2310,223,6707,Card,Delivered
+MS0166,2024-07-23,Customer_96,Maharashtra,Women,Palazzo,3,708,208,1916,Card,Delivered
+MS0167,2024-02-12,Customer_94,Maharashtra,Men,Wallet,4,1703,285,6527,UPI,Cancelled
+MS0168,2024-06-16,Customer_85,Uttar Pradesh,Men,Shoes,3,1514,0,4542,Card,Cancelled
+MS0169,2024-06-29,Customer_79,Maharashtra,Electronics,Power Bank,4,1638,0,6552,Card,Delivered
+MS0170,2024-03-14,Customer_109,Rajasthan,Women,Dress,3,2300,0,6900,COD,Cancelled
+MS0171,2024-07-15,Customer_73,Bihar,Women,Saree,1,1165,207,958,COD,Delivered
+MS0172,2024-09-28,Customer_47,Maharashtra,Electronics,Smartwatch,3,2017,0,6051,Card,Delivered
+MS0173,2024-10-14,Customer_16,Uttar Pradesh,Men,T-Shirt,1,961,275,686,Card,Cancelled
+MS0174,2024-03-03,Customer_18,Bihar,Men,Shoes,3,3041,0,9123,Card,Delivered
+MS0175,2024-10-08,Customer_70,Uttar Pradesh,Electronics,Earphones,3,2934,0,8802,Card,Delivered
+MS0176,2024-05-01,Customer_102,Maharashtra,Men,Jeans,2,696,0,1392,UPI,Delivered
+MS0177,2024-06-07,Customer_51,Maharashtra,Kids,Puzzle,2,2705,0,5410,COD,Cancelled
+MS0178,2024-08-18,Customer_60,Rajasthan,Electronics,Headphones,1,712,0,712,Card,Delivered
+MS0179,2024-09-22,Customer_20,Uttar Pradesh,Men,Shirt,4,2258,0,9032,UPI,Delivered
+MS0180,2024-05-08,Customer_26,Rajasthan,Kids,Toy Set,3,2324,0,6972,Card,Delivered
+MS0181,2024-03-28,Customer_85,Rajasthan,Kids,Water Bottle,1,2257,0,2257,COD,Returned
+MS0182,2024-11-24,Customer_99,Rajasthan,Kids,Water Bottle,1,315,0,315,Card,Delivered
+MS0183,2024-11-24,Customer_39,Maharashtra,Electronics,Headphones,1,2238,299,1939,UPI,Cancelled
+MS0184,2024-08-13,Customer_54,Maharashtra,Kids,Puzzle,1,3019,0,3019,Card,Delivered
+MS0185,2024-07-23,Customer_17,Uttar Pradesh,Kids,Water Bottle,2,1479,183,2775,COD,Returned
+MS0186,2024-08-18,Customer_32,Delhi,Women,Palazzo,2,2109,82,4136,UPI,Delivered
+MS0187,2024-10-22,Customer_93,Uttar Pradesh,Kids,Puzzle,4,1215,101,4759,UPI,Delivered
+MS0188,2024-01-12,Customer_12,Maharashtra,Electronics,Headphones,4,2241,177,8787,COD,Cancelled
+MS0189,2024-09-10,Customer_77,Maharashtra,Men,Shirt,3,398,45,1149,Card,Returned
+MS0190,2024-07-25,Customer_47,Bihar,Women,Kurti,4,747,155,2833,Card,Delivered
+MS0191,2024-10-08,Customer_36,Rajasthan,Men,Jeans,3,500,217,1283,COD,Returned
+MS0192,2024-10-12,Customer_47,Delhi,Women,Saree,1,1812,211,1601,UPI,Returned
+MS0193,2024-06-19,Customer_103,Maharashtra,Electronics,Headphones,1,384,0,384,COD,Cancelled
+MS0194,2024-07-20,Customer_79,Uttar Pradesh,Men,Shoes,2,1542,0,3084,COD,Delivered
+MS0195,2024-06-18,Customer_87,Bihar,Electronics,Headphones,3,2144,28,6404,Card,Returned
+MS0196,2024-10-25,Customer_62,Delhi,Kids,Baby Dress,4,1286,0,5144,COD,Returned
+MS0197,2024-01-10,Customer_57,Uttar Pradesh,Electronics,Power Bank,2,328,0,656,Card,Delivered
+MS0198,2024-12-27,Customer_18,Rajasthan,Electronics,Power Bank,4,2254,0,9016,UPI,Returned
+MS0199,2024-09-29,Customer_44,Rajasthan,Kids,Puzzle,4,1484,108,5828,Card,Delivered
+MS0200,2024-06-01,Customer_99,Uttar Pradesh,Electronics,Power Bank,2,1341,0,2682,COD,Delivered
+MS0201,2024-03-03,Customer_74,Rajasthan,Electronics,Smartwatch,4,1627,160,6348,Card,Cancelled
+MS0202,2024-06-26,Customer_119,Maharashtra,Kids,Toy Set,3,371,0,1113,COD,Delivered
+MS0203,2024-03-11,Customer_14,Rajasthan,Electronics,Power Bank,2,2405,158,4652,COD,Returned
+MS0204,2024-11-22,Customer_30,Bihar,Men,Shirt,1,2942,0,2942,UPI,Cancelled
+MS0205,2024-10-08,Customer_119,Delhi,Kids,Puzzle,1,2989,0,2989,Card,Cancelled
+MS0206,2024-02-15,Customer_84,Rajasthan,Electronics,Power Bank,3,1514,0,4542,UPI,Returned
+MS0207,2024-09-10,Customer_24,Uttar Pradesh,Women,Saree,4,919,38,3638,UPI,Delivered
+MS0208,2024-11-24,Customer_70,Rajasthan,Kids,Water Bottle,1,1571,165,1406,Card,Delivered
+MS0209,2024-08-22,Customer_83,Uttar Pradesh,Electronics,Smartwatch,2,660,0,1320,COD,Delivered
+MS0210,2024-11-08,Customer_110,Maharashtra,Women,Palazzo,3,2524,0,7572,Card,Returned
+MS0211,2024-03-12,Customer_62,Uttar Pradesh,Kids,Baby Dress,4,2940,0,11760,UPI,Delivered
+MS0212,2024-06-03,Customer_75,Rajasthan,Kids,Puzzle,2,2028,156,3900,UPI,Delivered
+MS0213,2024-06-06,Customer_21,Maharashtra,Kids,Toy Set,1,2934,80,2854,COD,Returned
+MS0214,2024-03-09,Customer_62,Delhi,Kids,Baby Dress,3,1704,0,5112,Card,Returned
+MS0215,2024-12-14,Customer_97,Rajasthan,Kids,Puzzle,4,2400,0,9600,UPI,Returned
+MS0216,2024-10-07,Customer_116,Rajasthan,Electronics,Headphones,3,518,0,1554,UPI,Returned
+MS0217,2024-12-14,Customer_27,Rajasthan,Men,Shirt,3,2330,0,6990,Card,Delivered
+MS0218,2024-08-21,Customer_73,Bihar,Electronics,Earphones,4,739,282,2674,COD,Cancelled
+MS0219,2024-10-23,Customer_10,Bihar,Kids,Baby Dress,4,1241,0,4964,Card,Delivered
+MS0220,2024-05-26,Customer_53,Delhi,Women,Dupatta,1,481,0,481,UPI,Cancelled
+MS0221,2024-12-15,Customer_85,Rajasthan,Kids,Puzzle,4,1745,0,6980,UPI,Delivered
+MS0222,2024-01-02,Customer_97,Bihar,Women,Saree,4,2365,0,9460,Card,Cancelled
+MS0223,2024-06-26,Customer_20,Uttar Pradesh,Electronics,Headphones,4,1139,146,4410,UPI,Delivered
+MS0224,2024-02-21,Customer_77,Bihar,Women,Dress,1,1184,0,1184,Card,Returned
+MS0225,2024-10-03,Customer_28,Bihar,Women,Saree,1,1846,0,1846,UPI,Returned
+MS0226,2024-06-03,Customer_113,Delhi,Kids,Toy Set,3,2564,0,7692,COD,Returned
+MS0227,2024-11-16,Customer_87,Maharashtra,Men,Wallet,3,1326,0,3978,COD,Cancelled
+MS0228,2024-07-28,Customer_20,Uttar Pradesh,Women,Palazzo,4,2347,183,9205,Card,Delivered
+MS0229,2024-01-30,Customer_72,Maharashtra,Electronics,Power Bank,2,1430,93,2767,Card,Returned
+MS0230,2024-11-27,Customer_11,Maharashtra,Men,Wallet,2,1243,124,2362,Card,Delivered
+MS0231,2024-04-06,Customer_103,Rajasthan,Men,T-Shirt,3,1743,0,5229,COD,Returned
+MS0232,2024-04-18,Customer_120,Delhi,Men,Wallet,2,1562,0,3124,COD,Delivered
+MS0233,2024-05-24,Customer_49,Maharashtra,Electronics,Power Bank,2,1823,142,3504,COD,Delivered
+MS0234,2024-02-20,Customer_103,Maharashtra,Kids,School Bag,3,2299,274,6623,Card,Delivered
+MS0235,2024-01-09,Customer_34,Rajasthan,Kids,School Bag,4,386,0,1544,COD,Returned
+MS0236,2024-07-13,Customer_73,Delhi,Electronics,Smartwatch,2,1002,0,2004,Card,Returned
+MS0237,2024-03-27,Customer_94,Uttar Pradesh,Kids,School Bag,4,3162,271,12377,UPI,Delivered
+MS0238,2024-12-08,Customer_7,Bihar,Electronics,Power Bank,1,2345,0,2345,Card,Delivered
+MS0239,2024-07-10,Customer_8,Rajasthan,Men,T-Shirt,2,236,131,341,COD,Returned
+MS0240,2024-01-07,Customer_3,Rajasthan,Electronics,Bluetooth Speaker,1,226,292,-66,COD,Delivered
+MS0241,2024-09-25,Customer_20,Delhi,Kids,Baby Dress,4,933,0,3732,UPI,Returned
+MS0242,2024-07-26,Customer_59,Rajasthan,Kids,School Bag,3,1824,60,5412,UPI,Delivered
+MS0243,2024-07-12,Customer_71,Maharashtra,Kids,Baby Dress,1,581,227,354,UPI,Delivered
+MS0244,2024-09-27,Customer_118,Bihar,Men,T-Shirt,4,1976,0,7904,UPI,Delivered
+MS0245,2024-04-01,Customer_119,Uttar Pradesh,Electronics,Smartwatch,1,503,0,503,UPI,Delivered
+MS0246,2024-10-17,Customer_107,Maharashtra,Men,Wallet,1,1424,0,1424,COD,Returned
+MS0247,2024-01-28,Customer_13,Maharashtra,Kids,Puzzle,2,3022,60,5984,UPI,Delivered
+MS0248,2024-08-18,Customer_63,Delhi,Kids,Water Bottle,4,1535,35,6105,Card,Returned
+MS0249,2024-11-12,Customer_38,Delhi,Electronics,Bluetooth Speaker,2,2983,0,5966,COD,Delivered
+MS0250,2024-06-11,Customer_47,Bihar,Women,Palazzo,2,1755,98,3412,UPI,Delivered
+MS0251,2024-02-14,Customer_24,Maharashtra,Kids,Puzzle,3,1303,0,3909,Card,Returned
+MS0252,2024-11-01,Customer_77,Uttar Pradesh,Electronics,Earphones,1,566,0,566,Card,Delivered
+MS0253,2024-12-16,Customer_49,Delhi,Kids,Puzzle,4,545,0,2180,UPI,Delivered
+MS0254,2024-08-10,Customer_36,Maharashtra,Kids,School Bag,4,796,0,3184,Card,Cancelled
+MS0255,2024-08-22,Customer_14,Delhi,Women,Palazzo,3,1209,0,3627,Card,Delivered
+MS0256,2024-08-08,Customer_105,Rajasthan,Electronics,Smartwatch,4,1548,245,5947,UPI,Delivered
+MS0257,2024-07-22,Customer_41,Uttar Pradesh,Kids,Water Bottle,2,2161,0,4322,COD,Cancelled
+MS0258,2024-02-28,Customer_120,Rajasthan,Men,Jeans,4,1347,221,5167,UPI,Returned
+MS0259,2024-08-12,Customer_103,Uttar Pradesh,Men,Shoes,1,3177,0,3177,COD,Delivered
+MS0260,2024-05-09,Customer_85,Delhi,Electronics,Bluetooth Speaker,2,2793,0,5586,COD,Cancelled
+MS0261,2024-09-30,Customer_65,Maharashtra,Electronics,Earphones,4,2648,265,10327,COD,Delivered
+MS0262,2024-03-26,Customer_83,Rajasthan,Kids,Water Bottle,1,646,147,499,UPI,Returned
+MS0263,2024-05-12,Customer_29,Rajasthan,Electronics,Smartwatch,4,632,0,2528,COD,Returned
+MS0264,2024-06-25,Customer_4,Maharashtra,Men,Wallet,3,1801,0,5403,UPI,Delivered
+MS0265,2024-06-08,Customer_44,Maharashtra,Electronics,Earphones,1,3189,92,3097,UPI,Returned
+MS0266,2024-06-12,Customer_9,Uttar Pradesh,Electronics,Smartwatch,4,598,244,2148,UPI,Delivered
+MS0267,2024-09-21,Customer_23,Rajasthan,Women,Palazzo,1,2972,0,2972,UPI,Delivered
+MS0268,2024-11-23,Customer_85,Maharashtra,Electronics,Bluetooth Speaker,2,1858,0,3716,Card,Delivered
+MS0269,2024-04-15,Customer_36,Bihar,Men,Wallet,4,1791,0,7164,COD,Delivered
+MS0270,2024-05-14,Customer_86,Maharashtra,Men,Jeans,3,1006,0,3018,COD,Delivered
+MS0271,2024-06-29,Customer_109,Maharashtra,Electronics,Headphones,4,2603,78,10334,COD,Delivered
+MS0272,2024-03-01,Customer_31,Uttar Pradesh,Kids,Water Bottle,1,2951,88,2863,UPI,Delivered
+MS0273,2024-08-04,Customer_24,Maharashtra,Kids,Toy Set,4,1912,90,7558,COD,Returned
+MS0274,2024-04-05,Customer_41,Maharashtra,Men,Shoes,2,2204,0,4408,COD,Delivered
+MS0275,2024-10-14,Customer_65,Maharashtra,Kids,Baby Dress,4,758,119,2913,Card,Cancelled
+MS0276,2024-04-22,Customer_38,Bihar,Electronics,Bluetooth Speaker,4,884,0,3536,Card,Delivered
+MS0277,2024-10-20,Customer_15,Uttar Pradesh,Kids,Toy Set,4,2515,0,10060,COD,Delivered
+MS0278,2024-06-01,Customer_112,Bihar,Women,Dress,2,1940,0,3880,Card,Delivered
+MS0279,2024-10-28,Customer_89,Uttar Pradesh,Kids,Baby Dress,4,679,0,2716,COD,Returned
+MS0280,2024-10-18,Customer_45,Rajasthan,Electronics,Power Bank,2,1045,0,2090,Card,Returned
+MS0281,2024-03-10,Customer_97,Maharashtra,Men,Jeans,3,1384,0,4152,UPI,Delivered
+MS0282,2024-12-12,Customer_51,Maharashtra,Men,Shirt,2,798,0,1596,UPI,Returned
+MS0283,2024-07-25,Customer_66,Uttar Pradesh,Kids,Puzzle,4,2050,0,8200,COD,Delivered
+MS0284,2024-08-22,Customer_82,Uttar Pradesh,Electronics,Bluetooth Speaker,3,2582,0,7746,UPI,Returned
+MS0285,2024-06-14,Customer_107,Uttar Pradesh,Electronics,Power Bank,4,1066,273,3991,Card,Returned
+MS0286,2024-02-20,Customer_81,Maharashtra,Men,Shoes,4,1606,0,6424,UPI,Delivered
+MS0287,2024-12-18,Customer_117,Delhi,Men,Wallet,4,201,0,804,COD,Delivered
+MS0288,2024-02-12,Customer_48,Delhi,Men,Jeans,1,2880,204,2676,UPI,Cancelled
+MS0289,2024-01-01,Customer_28,Maharashtra,Kids,Toy Set,4,2883,0,11532,UPI,Delivered
+MS0290,2024-03-02,Customer_111,Maharashtra,Men,Shoes,4,237,24,924,COD,Delivered
+MS0291,2024-02-22,Customer_41,Uttar Pradesh,Electronics,Earphones,2,1768,0,3536,Card,Delivered
+MS0292,2024-11-08,Customer_84,Delhi,Electronics,Power Bank,2,479,0,958,Card,Delivered
+MS0293,2024-02-14,Customer_115,Bihar,Men,Shirt,4,2722,0,10888,UPI,Delivered
+MS0294,2024-05-21,Customer_83,Bihar,Electronics,Smartwatch,4,1487,0,5948,UPI,Returned
+MS0295,2024-07-19,Customer_38,Bihar,Kids,Baby Dress,3,1040,0,3120,UPI,Cancelled
+MS0296,2024-07-03,Customer_120,Uttar Pradesh,Electronics,Earphones,2,2245,0,4490,UPI,Cancelled
+MS0297,2024-10-27,Customer_9,Bihar,Electronics,Smartwatch,2,2128,0,4256,Card,Delivered
+MS0298,2024-08-04,Customer_90,Maharashtra,Women,Kurti,4,2274,166,8930,UPI,Returned
+MS0299,2024-03-20,Customer_69,Uttar Pradesh,Men,Jeans,1,1468,0,1468,Card,Returned
+MS0300,2024-05-05,Customer_12,Maharashtra,Women,Palazzo,4,3188,0,12752,UPI,Cancelled
+MS0301,2024-12-25,Customer_2,Delhi,Women,Palazzo,2,688,0,1376,Card,Delivered
+MS0302,2024-01-16,Customer_43,Maharashtra,Kids,Toy Set,3,718,0,2154,Card,Returned
+MS0303,2024-01-29,Customer_64,Rajasthan,Women,Palazzo,1,2231,253,1978,UPI,Delivered
+MS0304,2024-09-17,Customer_1,Bihar,Men,Jeans,1,2549,0,2549,UPI,Delivered
+MS0305,2024-01-19,Customer_71,Maharashtra,Women,Dress,3,1767,0,5301,UPI,Delivered
+MS0306,2024-03-02,Customer_65,Bihar,Men,Wallet,3,1310,59,3871,UPI,Delivered
+MS0307,2024-06-16,Customer_12,Rajasthan,Women,Dress,1,2104,164,1940,Card,Delivered
+MS0308,2024-08-25,Customer_48,Rajasthan,Kids,Toy Set,3,2508,0,7524,Card,Delivered
+MS0309,2024-10-04,Customer_45,Bihar,Men,Shirt,1,1878,0,1878,Card,Delivered
+MS0310,2024-08-02,Customer_63,Bihar,Electronics,Smartwatch,1,1039,0,1039,UPI,Delivered
+MS0311,2024-08-22,Customer_96,Bihar,Women,Kurti,2,2327,231,4423,COD,Delivered
+MS0312,2024-12-05,Customer_17,Delhi,Men,Wallet,1,2623,51,2572,Card,Delivered
+MS0313,2024-04-29,Customer_10,Delhi,Kids,Puzzle,3,1501,251,4252,UPI,Returned
+MS0314,2024-06-09,Customer_53,Bihar,Women,Saree,1,872,250,622,COD,Delivered
+MS0315,2024-02-16,Customer_21,Uttar Pradesh,Men,Wallet,3,2096,0,6288,COD,Returned
+MS0316,2024-07-01,Customer_51,Rajasthan,Women,Saree,3,806,0,2418,UPI,Delivered
+MS0317,2024-02-18,Customer_60,Bihar,Kids,Toy Set,1,1855,0,1855,UPI,Delivered
+MS0318,2024-07-09,Customer_88,Bihar,Women,Kurti,2,734,121,1347,COD,Returned
+MS0319,2024-03-06,Customer_12,Uttar Pradesh,Kids,Baby Dress,1,463,121,342,UPI,Delivered
+MS0320,2024-09-11,Customer_4,Maharashtra,Electronics,Earphones,2,2549,241,4857,COD,Cancelled
+MS0321,2024-08-16,Customer_114,Delhi,Men,Jeans,2,965,160,1770,UPI,Returned
+MS0322,2024-02-14,Customer_36,Maharashtra,Men,Jeans,4,1886,0,7544,UPI,Cancelled
+MS0323,2024-07-14,Customer_101,Uttar Pradesh,Men,Shoes,2,2782,0,5564,Card,Returned
+MS0324,2024-01-14,Customer_41,Rajasthan,Electronics,Smartwatch,3,1789,0,5367,UPI,Delivered
+MS0325,2024-03-22,Customer_13,Delhi,Kids,Baby Dress,4,2367,0,9468,COD,Delivered
+MS0326,2024-03-29,Customer_23,Delhi,Kids,Water Bottle,1,1097,218,879,COD,Delivered
+MS0327,2024-10-15,Customer_25,Maharashtra,Kids,Water Bottle,1,3080,0,3080,COD,Delivered
+MS0328,2024-11-04,Customer_29,Bihar,Men,Wallet,1,568,0,568,COD,Cancelled
+MS0329,2024-06-14,Customer_8,Bihar,Women,Palazzo,2,733,0,1466,UPI,Returned
+MS0330,2024-10-27,Customer_13,Uttar Pradesh,Men,T-Shirt,3,496,211,1277,Card,Delivered
+MS0331,2024-03-30,Customer_91,Rajasthan,Men,Shirt,4,2817,269,10999,COD,Returned
+MS0332,2024-03-06,Customer_23,Bihar,Kids,Toy Set,2,1748,177,3319,COD,Returned
+MS0333,2024-11-23,Customer_73,Bihar,Electronics,Headphones,1,944,0,944,Card,Delivered
+MS0334,2024-11-21,Customer_114,Bihar,Kids,Baby Dress,2,1619,0,3238,COD,Delivered
+MS0335,2024-06-28,Customer_33,Bihar,Electronics,Earphones,3,1057,0,3171,COD,Delivered
+MS0336,2024-07-30,Customer_64,Maharashtra,Women,Dress,4,3199,0,12796,Card,Returned
+MS0337,2024-08-19,Customer_10,Bihar,Electronics,Earphones,4,2566,0,10264,Card,Delivered
+MS0338,2024-07-11,Customer_21,Bihar,Kids,School Bag,1,502,0,502,COD,Delivered
+MS0339,2024-11-30,Customer_22,Rajasthan,Kids,Water Bottle,4,3084,35,12301,Card,Delivered
+MS0340,2024-12-22,Customer_71,Rajasthan,Women,Kurti,3,1040,117,3003,Card,Delivered
+MS0341,2024-03-19,Customer_7,Uttar Pradesh,Kids,Toy Set,1,402,221,181,UPI,Cancelled
+MS0342,2024-04-15,Customer_22,Uttar Pradesh,Women,Palazzo,4,1016,0,4064,UPI,Cancelled
+MS0343,2024-02-16,Customer_83,Rajasthan,Women,Palazzo,4,2127,270,8238,Card,Delivered
+MS0344,2024-05-14,Customer_57,Maharashtra,Kids,Puzzle,3,963,0,2889,Card,Delivered
+MS0345,2024-12-08,Customer_45,Rajasthan,Kids,Water Bottle,1,818,0,818,Card,Returned
+MS0346,2024-10-01,Customer_88,Maharashtra,Men,Shoes,1,1784,287,1497,COD,Delivered
+MS0347,2024-03-02,Customer_97,Maharashtra,Electronics,Smartwatch,1,1816,0,1816,UPI,Delivered
+MS0348,2024-12-15,Customer_56,Delhi,Men,Shirt,2,373,0,746,COD,Delivered
+MS0349,2024-10-09,Customer_42,Uttar Pradesh,Kids,School Bag,1,555,218,337,COD,Cancelled
+MS0350,2024-03-16,Customer_73,Rajasthan,Women,Dupatta,4,659,0,2636,COD,Delivered
